@@ -2,3 +2,5 @@ manage.py
 WaveRent
 !payment
 __pycache__
+static
+templates
